@@ -1,0 +1,16 @@
+@import './reset.css';
+body {
+  font-size: 16px;
+  background: #1f0b3a;
+  color: #ada4c9;
+  font-family: Lato;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+a {
+  text-decoration: none;
+}
+
